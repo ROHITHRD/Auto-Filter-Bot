@@ -3,7 +3,7 @@ class Script(object):
 
     START_MSG = """<b>Hi {},
 
-I'm an advanced filter bot with many capabilities!
+I'm an advanced Telugumv filter bot with many capabilities!
 There is no practical limits for my filtering capacity :)
 
 See <i>/help</i> for commands and more details.</b>
@@ -23,7 +23,7 @@ Usual commands:
 
     ABOUT_MSG = """⭕️<b>My Name : {}</b>
 
-⭕️<b>Creator :</b> @gunaya001  
+⭕️<b>Creator :</b> @ROHITHRD3
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
